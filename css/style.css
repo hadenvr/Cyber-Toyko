@@ -23,6 +23,12 @@ body {
   width: 100%;
 }
 
+.top-nav h1 {
+  text-align: center;
+  color: #ffffff;
+  padding-top: 10px;
+}
+
 .landing {
   background-image: url("../img/landing-mtn-md.jpg");
   background-size: cover;
@@ -34,4 +40,36 @@ body {
   text-align: center;
   color: #ffffff;
   text-shadow: 3px 3px #000;
+  font-size: 20px;
+}
+
+@media (max-width: 1000px) {
+  .landing {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 700px) {
+  .landing {
+    background-image: url("../img/landing-mtn-sm.jpg");
+  }
+}
+
+.row {
+  display: flex;
+}
+
+.col-3 {
+  width: 33.3%;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  .row {
+    display: block;
+  }
+
+  .col-3 {
+    width: 100%;
+  }
 }
