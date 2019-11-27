@@ -1,5 +1,7 @@
 # Cyber Tokyo
 
-This folder is a page for the webpage, Cyber Tokyo
+This project is for the webpage, Cyber Tokyo
 
-Cyber Tokyo is a webpage that shows some pictures from Liam Wong - making a great cyberpunk color scheme theme.
+Cyber Tokyo is a webpage that showcasing beautiful photos by Liam Wong; making a great cyberpunk web theme.
+
+Visit https://hadenvr.github.io/Cyber-Toyko/ to check out the project!
