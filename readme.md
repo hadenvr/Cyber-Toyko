@@ -6,3 +6,4 @@
 Created to exercise reponsive CSS styling.
 
 ![Preview](preview.gif)
+![Preview-Responsive](preview2.gif)
