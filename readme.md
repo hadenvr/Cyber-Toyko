@@ -5,5 +5,8 @@
 
 Created to exercise reponsive CSS styling.
 
+### Normal
 ![Preview](preview.gif)
+
+### Reponsive
 ![Preview-Responsive](preview2.gif)
