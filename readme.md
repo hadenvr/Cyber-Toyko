@@ -1,7 +1,8 @@
 # Cyber Tokyo
+## Live Site: https://hadenvr.github.io/Cyber-Toyko/
 
-This project is for the webpage, Cyber Tokyo
+🏮 Cyber Tokyo is a webpage that showcasing beautiful photos by Liam Wong; making a great cyberpunk web theme.
 
-Cyber Tokyo is a webpage that showcasing beautiful photos by Liam Wong; making a great cyberpunk web theme.
+Created to exercise reponsive CSS styling.
 
-Visit https://hadenvr.github.io/Cyber-Toyko/ to check out the project!
+![Preview](preview.gif)
